@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(39, 38, 38);
+}
+
+.card{
+  background-color: black;
+}
+
+p{
+  color: white;
+}
+
+.home .post img{
+  position: absolute;
+  width: 60%;
+  top: 60px;
+  left: -70px;
+  opacity: 0.6;
+}
+
+.home .post{
+  overflow: hidden;
+  padding-left: 260px;
+}
+
